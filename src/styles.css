@@ -1,11 +1,13 @@
+
 body {
-    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 2rem;
     color: #ffffff;
     background-color: #282c34;
   }
 
-  .button {
+  
+button {
 	display: inline-block;
 	font-size: 2rem;
 	background-color: rgb(97, 218, 251);
@@ -16,16 +18,17 @@ body {
     cursor:pointer;
 }
 
-.button:hover {
+button:hover {
     background: #ffffff;
   }
 
-.input {
+  
+input {
     display: inline-block;
 	font-size: 2rem;
     height: 1.5em;
 }
 
-.checkbox {
+input[type="checkbox"] {
     transform: scale(1.5);
 }

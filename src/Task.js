@@ -10,7 +10,7 @@ return (
 
     <div>
         <label> 
-            <input type="checkbox" className="checkbox" checked={task.complete} onChange={handleToggle} style={{marginRight:"1rem"}}/>
+            <input type="checkbox" checked={task.complete} onChange={handleToggle} style={{marginRight:"1rem"}}/>
         {task.name}
         </label> 
     </div>
