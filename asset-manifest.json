@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/%7Brepo-name%7D/static/css/main.ae6cbc5a.chunk.css",
-    "main.js": "/%7Brepo-name%7D/static/js/main.8dbed4ec.chunk.js",
-    "main.js.map": "/%7Brepo-name%7D/static/js/main.8dbed4ec.chunk.js.map",
-    "runtime-main.js": "/%7Brepo-name%7D/static/js/runtime-main.59e5c32b.js",
-    "runtime-main.js.map": "/%7Brepo-name%7D/static/js/runtime-main.59e5c32b.js.map",
-    "static/js/2.83dbd190.chunk.js": "/%7Brepo-name%7D/static/js/2.83dbd190.chunk.js",
-    "static/js/2.83dbd190.chunk.js.map": "/%7Brepo-name%7D/static/js/2.83dbd190.chunk.js.map",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "static/css/main.ae6cbc5a.chunk.css.map": "/%7Brepo-name%7D/static/css/main.ae6cbc5a.chunk.css.map",
-    "static/js/2.83dbd190.chunk.js.LICENSE.txt": "/%7Brepo-name%7D/static/js/2.83dbd190.chunk.js.LICENSE.txt"
+    "main.css": "/Basic-React-App_Tasklist/static/css/main.ae6cbc5a.chunk.css",
+    "main.js": "/Basic-React-App_Tasklist/static/js/main.8dbed4ec.chunk.js",
+    "main.js.map": "/Basic-React-App_Tasklist/static/js/main.8dbed4ec.chunk.js.map",
+    "runtime-main.js": "/Basic-React-App_Tasklist/static/js/runtime-main.783103bb.js",
+    "runtime-main.js.map": "/Basic-React-App_Tasklist/static/js/runtime-main.783103bb.js.map",
+    "static/js/2.83dbd190.chunk.js": "/Basic-React-App_Tasklist/static/js/2.83dbd190.chunk.js",
+    "static/js/2.83dbd190.chunk.js.map": "/Basic-React-App_Tasklist/static/js/2.83dbd190.chunk.js.map",
+    "index.html": "/Basic-React-App_Tasklist/index.html",
+    "static/css/main.ae6cbc5a.chunk.css.map": "/Basic-React-App_Tasklist/static/css/main.ae6cbc5a.chunk.css.map",
+    "static/js/2.83dbd190.chunk.js.LICENSE.txt": "/Basic-React-App_Tasklist/static/js/2.83dbd190.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.59e5c32b.js",
+    "static/js/runtime-main.783103bb.js",
     "static/js/2.83dbd190.chunk.js",
     "static/css/main.ae6cbc5a.chunk.css",
     "static/js/main.8dbed4ec.chunk.js"
